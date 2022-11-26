@@ -1,0 +1,15 @@
+{
+  "name": "preentrega3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Flores",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "sass": "^1.56.1"
+  }
+}
